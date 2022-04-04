@@ -1,6 +1,8 @@
 # semantic_html_refactor
 Refactoring a marketing agency website to use semantic HTML
 
+HTML https://github.com/Winner-AM1/semantic_html_refactor.git
+
 _Summary_ 
 
 I have refactored a website for "Horiseon Inc in this project." To make the website more accessible, I have added alt text. I understand that search engine optimisation is a vital part of the company, so I have even decided to add as much as semantic HTML elements as possible by removing the <div> in the previous code. To stop a higher likelihood of having bugs, I have reduced the repeated CSS in the CSS files and ensured that HTML changes are followed through in the CSS.
@@ -32,7 +34,11 @@ _Head and broken navigation bar Before_
     <div class="hero"></div>
     <div class="content">
 
-_Head and fixed navigation bar after_ 
+_
+
+
+
+Head and fixed navigation bar after_ 
  *semantic HTML was added making it more search engine optimised)* 
 <head>
    <meta charset="UTF-8" />
@@ -59,7 +65,11 @@ _Head and fixed navigation bar after_
      <div class="hero" > </div>
 
 
-_Content (before)_
+_
+
+
+
+Content (before)_
  <div class="content">
      <div class="search-engine-optimization">
          <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
@@ -115,34 +125,6 @@ _Content(After)_
   </p>
   </article>
  </section>
-
--->
-_Side bar(before)_
- </div>
- <div class="benefits">
-     <div class="benefit-lead">
-         <h3>Lead Generation</h3>
-         <img src="./assets/images/lead-generation.png" />
-         <p>
-             Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-         </p>
-     </div>
-     <div class="benefit-brand">
-         <h3>Brand Awareness</h3>
-         <img src="./assets/images/brand-awareness.png" />
-         <p>
-             Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-         </p>
-     </div>
-     <div class="benefit-cost">
-         <h3>Cost Management</h3>
-         <img src="./assets/images/cost-management.png" />
-         <p>
-             As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page
-         </p>
-     </div>
- </div>
-
 
  _Side bar (before)_
  </div>
