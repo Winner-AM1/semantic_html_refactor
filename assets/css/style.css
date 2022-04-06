@@ -12,8 +12,9 @@ body {
     padding: 20px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
-}
+    color: #ffffff;}
+
+/* header tags were changed to add nav*/
 
 .header h1 {
     display: inline-block;
@@ -24,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,28 +33,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;}
 
-.navbar{
-        float: right;
-    }
-
-.button { 
-    display: inline-block;
-    list-style-type: none;
-	margin: 0px;
-	padding: 0px;
-	text-align: center;
-	margin-top: 20px;
-    font-size: 20px;
-    margin-left: 25px; 
-}
 a {
     color: #ffffff;
     text-decoration: none;
@@ -77,6 +64,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*Repeats were removed and elements were put under same class name*/
 
 .features {
     margin-bottom: 20px;
@@ -118,23 +106,23 @@ p {
     background-color: #2589bd;
 }
 
-
-.leadbrandcost {
+/*Repeats were removed and elements were put under same class name*/
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;}
 
-.leadbrandcost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.leadbrandcost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/*footer class now targets footer elements instead of div*/
 .footer {
     padding: 30px;
     clear: both;
@@ -142,7 +130,7 @@ p {
     text-align: center;
 }
 
-.footer h4 {
+.footer h2 {
     font-size: 20px;
 }
 
