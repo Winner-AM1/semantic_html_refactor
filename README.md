@@ -11,10 +11,10 @@ finally decided to explore my adoration for coding by starting. :nerd_face: :gri
 
 
 ## Before 
-Website before ![ Horiseon webpage before](/assets/images/screenshots/beforewebsite.png "before")
+Horiseon webpage before ![ Horiseon webpage before](/assets/images/screenshots/beforewebsite.png "before")
 
 ## After 
-Website after after ![ Horiseon webpage after](/assets/images/screenshots/afterwebsite.png "after")
+Horiseon webpage after![ Horiseon webpage after](/assets/images/screenshots/afterwebsite.png "after")
 
 ## Techologies 
 - HTML
