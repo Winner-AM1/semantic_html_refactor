@@ -24,7 +24,9 @@ finally decided to explore my adoration for coding by starting. :nerd_face: :gri
 
 ## Deployed URL
 
-The github webpage link [here](https://winner-am1.github.io/semantic_html_refactor/)
+Click the link [here](https://winner-am1.github.io/semantic_html_refactor/) to access the webpage
+
+
 
 
 
